@@ -1,9 +1,9 @@
 # Coddy Java Projects
 
-Kleine Java-Übungsprojekte aus meinen Coddy-Kursen.
+Small Java practice projects from my Coddy courses.
 
-## Projekte
+## Projects
 
-- **[word-statistics](word-statistics/)** — Zählt Wörter in einem Text und gibt Gesamtanzahl, Anzahl eindeutiger Wörter sowie Häufigkeit pro Wort aus.
-- **[text-tokenizer](text-tokenizer/)** — Zerlegt einen Text mit `StringTokenizer` anhand eines Trennzeichens in einzelne Tokens und gibt sie mit Anzahl aus.
-- **[timezone-converter](timezone-converter/)** — Wandelt eine Datum/Uhrzeit-Angabe von einer Zeitzone in eine andere um, optional mit Anzeige des UTC-Offsets.
+- **[word-statistics](word-statistics/)** — Counts words in a text and outputs the total count, number of unique words, and frequency per word.
+- **[text-tokenizer](text-tokenizer/)** — Splits a text into tokens using `StringTokenizer` based on a delimiter and prints them with a count.
+- **[timezone-converter](timezone-converter/)** — Converts a date/time value from one timezone to another, optionally showing the UTC offset.
